@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="Foto_resize">
+    <file>Resources/icons/main.jpg</file>
+    <file>Resources/icons/minus.png</file>
+  </qresource>
+</RCC>
